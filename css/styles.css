@@ -1,0 +1,14 @@
+.redHeader {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-image: url("../images/doge.png");
+    background-repeat: repeat;
+  }
+
+.blueHeader {
+    color: blue;
+    font-family: 'Rubik Beastly', cursive;
+}
